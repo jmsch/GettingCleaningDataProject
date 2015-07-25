@@ -61,7 +61,7 @@ combined$V2 <- NULL # removing duplicate info
 rm(activity_labels)
 
 ### 4) Appropriately labels the data set with descriptive variable names. 
-# done already at lines 8-11 and 54-56
+# done already at lines 10-13 and 58-60
 
 ### 5) From the data set in step 4, creates a second, independent tidy data 
 # set with the average of each variable for each activity and each subject.
